@@ -1,3 +1,3 @@
 ---
-title: Step 2
+title: 'Step 2 - Case Study Applications'
 ---
