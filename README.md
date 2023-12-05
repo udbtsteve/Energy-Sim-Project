@@ -9,11 +9,11 @@ This <a href="https://github.com/udbtsteve/energy-sim-project/">GitHub repositor
 - Simulation platform builds
 - Input, modeling, and experiment data for publications
 - Resources to facilitate community-engaged energy planning and simulation platform use via visual code development tools (which integrate with <a href="https://gama-platform.org/wiki/Home">GAMA</a>, the intended agent-oriented modeling/simulation/visualization language for the project)
-
+<p> <br/> </p>
+<p> <br/> </p>
 <center>
   Tentative project title:
-  <br/>
-  
+  <p> <br/> </p>
   <strong>
     Designing Microgrid Energy Systems - A Socio-Technical Framework
   </strong>
