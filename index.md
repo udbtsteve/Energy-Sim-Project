@@ -5,5 +5,5 @@ title: Energy Sim Project
   Hi! Thanks for visiting.
   <br>
   
-  **Tentative title: "Designing Microgrid Energy Systems - A Socio-Technical Framework"
+  **Tentative title: "Designing Microgrid Energy Systems - A Socio-Technical Framework"**
 </center>
