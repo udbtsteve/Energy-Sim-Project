@@ -9,6 +9,9 @@ Intended to document dissertation project development for the Civil &amp; Enviro
 
 <center>
   Tentative title:
+  <br>
   
-  <strong>Designing Microgrid Energy Systems - A Socio-Technical Framework</strong>
+  <strong>
+    Designing Microgrid Energy Systems - A Socio-Technical Framework
+  </strong>
 </center>
