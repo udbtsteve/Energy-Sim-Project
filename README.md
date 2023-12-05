@@ -1,7 +1,3 @@
----
-title: 'Home'
----
-
 # Energy Sim Project
 <br>
 
