@@ -1,3 +1,3 @@
 ---
-title: Step 0
+title: Step 0 - Proposal
 ---
