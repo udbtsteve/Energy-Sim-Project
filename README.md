@@ -12,7 +12,7 @@ This <a href="https://github.com/udbtsteve/energy-sim-project/">GitHub repositor
 
 <center>
   Tentative project title:
-  &nbsp;
+  \
   
   <strong>
     Designing Microgrid Energy Systems - A Socio-Technical Framework
