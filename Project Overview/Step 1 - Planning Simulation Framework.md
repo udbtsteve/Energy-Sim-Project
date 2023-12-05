@@ -1,3 +1,3 @@
 ---
-title: Step 1 - Planning Simulation Framework
+title: 'Step 1 - Planning Simulation Framework'
 ---
