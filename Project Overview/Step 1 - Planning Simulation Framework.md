@@ -1,3 +1,3 @@
 ---
-title: Step 1: Planning Simulation
+title: Step 1
 ---
