@@ -5,7 +5,7 @@ Hi, thanks for visiting!
 
 This project is being developed to support dissertation research in Civil &amp; Environmental Engineering at the University of Delaware.
 
-The <a href="https://github.com/udbtsteve/energy-sim-project/">GitHub repository</a> underlying this site is intended to eventually contain additional project resources -- such as simulation platform builds; input, modeling, and experiment data for publications; and resources to facilitate community-engaged platform use via visual modeling tools for GAMA (coding language for agent-oriented modeling, simulation, and visualization).
+This <a href="https://github.com/udbtsteve/energy-sim-project/">GitHub repository</a> underlying the project site is intended to contain additional project resources as they're developed -- such as simulation platform builds; input, modeling, and experiment data for publications; and resources to facilitate community-engaged energy planning and simulation platform use via visual code development tools (which integrate with <a href="https://gama-platform.org/wiki/Home">GAMA</a>, the intended agent-oriented modeling/simulation/visualization language for the project). 
 
 <center>
   Tentative title:
