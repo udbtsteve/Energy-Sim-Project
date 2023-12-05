@@ -11,7 +11,8 @@ This <a href="https://github.com/udbtsteve/energy-sim-project/">GitHub repositor
 - Resources to facilitate community-engaged energy planning and simulation platform use via visual code development tools (which integrate with <a href="https://gama-platform.org/wiki/Home">GAMA</a>, the intended agent-oriented modeling/simulation/visualization language for the project)
 
 <center>
-  Tentative title:
+  Tentative project title:
+  
   <br>
   
   <strong>
