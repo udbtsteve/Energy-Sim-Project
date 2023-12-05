@@ -7,7 +7,7 @@ title: 'Home'
 
 Hi, thanks for visiting!
 
-The underlying GitHub repository for this site is intended to document dissertation project development for the Civil &amp; Environmental Engineering PhD program at the University of Delaware (with concentration in Civil Infrastructure Systems).
+The underlying GitHub repository for this site is contains dissertation project resources and documentation for the Civil &amp; Environmental Engineering PhD program at the University of Delaware (with concentration in Civil Infrastructure Systems).
 
 <center>
   Tentative title:
