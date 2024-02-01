@@ -1,4 +1,4 @@
-# Energy Sim Project
+# Open DES Sim Project
 <br>
 
 Hi, thanks for visiting!
@@ -15,6 +15,6 @@ The <a href="https://github.com/udbtsteve/energy-sim-project/">GitHub repository
   Tentative project title:
   <p> <br/> </p>
   <strong>
-    Designing Microgrid Energy Systems - A Socio-Technical Framework
+    Engineering stakeholder-accessible energy simulations to support public engagement in municipal-scale energy grid decarbonization planning
   </strong>
 </center>
